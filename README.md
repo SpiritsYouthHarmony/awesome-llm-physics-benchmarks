@@ -1,6 +1,6 @@
 # 🚀 Awesome LLM Physics Benchmarks
 
-[![Stargazers](https://img.shields.io/github/stars/SpiritsYouthHarmony/awesome-llm-physics-benchmarks?style=social)](https://github.com/SpiritsYouthHarmony/awesome-llm-physics-benchmarks/stargazers)
+[![Stargazers](https://img.shields.io/github/stars/SpiritsYouthHarmony/awesome-llm-physics-benchmarks?label=Stars&style=social)](https://github.com/SpiritsYouthHarmony/awesome-llm-physics-benchmarks/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/SpiritsYouthHarmony/awesome-llm-physics-benchmarks)](https://github.com/SpiritsYouthHarmony/awesome-llm-physics-benchmarks/commits/main)
 
 A curated and comprehensive list of benchmarks for evaluating Large Language Models (LLMs) and Multimodal LLMs (MLLMs/VLMs) on **physics reasoning, problem-solving, and physical world understanding**. This list covers everything from text-only university problems and vision-grounded diagrams to video dynamics, research-level challenges, and specialized subfields like quantum and condensed matter physics.

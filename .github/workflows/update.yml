@@ -18,7 +18,7 @@ jobs:
       - name: Update Stars Badge
         run: |
           STARS=$(curl -s "https://api.github.com/repos/${{ github.repository }}" | jq '.stargazers_count')
-          sed -i "s/img.shields.io\/github\/stars\/.*style=social/img.shields.io\/github\/stars\/${{ github.repository }}\?style=social\&label=Stars\&count=${STARS}/" README.md
+          sed -i  '' "s/img.shields.io\/github\/stars\/.*style=social/img.shields.io\/github\/stars\/${{ github.repository }}\?style=social\&label=Stars\&count=${STARS}/" README.md
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v4
